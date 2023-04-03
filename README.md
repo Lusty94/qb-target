@@ -1,6 +1,6 @@
 # qb-target
 
-QB-Targer with spinning cog icon and blue colour scheme created by Lusty94 credits to original creators I just reskinned it and changed the icon.
+QB-Target with spinning cog icon and blue colour scheme created by Lusty94 credits to original creators I just reskinned it and changed the icon.
 
 ---------------------
 
