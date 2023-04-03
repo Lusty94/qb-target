@@ -5,10 +5,12 @@ QB-Target with spinning cog icon and blue colour scheme created by Lusty94 credi
 Preview:
 
 Target when looking at an object:
-https://imgur.com/eQ9iBw9
+
+![icon_active](https://user-images.githubusercontent.com/108025667/229636614-6fd7b4e3-4b21-413e-a166-83909e7d50b6.png)
 
 Target when pressed:
-https://imgur.com/UlYMZQn
+![icon_nonactive](https://user-images.githubusercontent.com/108025667/229636638-df7a7b75-2281-4f0f-a186-71b4a04eb733.png)
+
 ---------------------
 
 qb-target is a targeting solution that allows interaction with any predefined entity, model, entity type or polyzone. While activated you can easily and safely replace markers and distance checking, instead relying on intuitive design to improve player experiences and optimize interaction.
