@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'BerkieB'
-description 'An optimized interaction system for FiveM, based on qtarget'
+author 'Lusty94'
+description 'qb-target with a spinning cog icon and blue colour scheme'
 version '5.3.9'
 
 ui_page 'html/index.html'
